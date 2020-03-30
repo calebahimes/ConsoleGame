@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\GoldBadge\dotnet\Week1\CSharpFundamentals\00-ConsoleGame\obj\Debug\00-ConsoleGame.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\dotnet\Week1\CSharpFundamentals\00-ConsoleGame\bin\Debug\00-ConsoleGame.exe.config
+C:\ElevenFiftyProjects\GoldBadge\dotnet\Week1\CSharpFundamentals\00-ConsoleGame\bin\Debug\00-ConsoleGame.exe
+C:\ElevenFiftyProjects\GoldBadge\dotnet\Week1\CSharpFundamentals\00-ConsoleGame\bin\Debug\00-ConsoleGame.pdb
+C:\ElevenFiftyProjects\GoldBadge\dotnet\Week1\CSharpFundamentals\00-ConsoleGame\obj\Debug\00-ConsoleGame.exe
+C:\ElevenFiftyProjects\GoldBadge\dotnet\Week1\CSharpFundamentals\00-ConsoleGame\obj\Debug\00-ConsoleGame.pdb
